@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi!<br>I'm currently an undergraduate researcher at George Mason University<br>I'm passionate about hiking, skiing, and coffee<br>
+Hi!<br>I'm currently an undergraduate researcher at George Mason University, passionate about hiking, skiing, and coffee<br>
 
 
 ## 🌐 Socials:
