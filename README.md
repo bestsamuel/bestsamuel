@@ -1,8 +1,8 @@
-# 💫 About Me:
-Hi!<br>I'm currently an undergraduate researcher at George Mason University, passionate about hiking, skiing, and coffee<br>
+# About Me:
+<br>Masters Student at Cornell University. Incoming SDE Intern at Amazon<br>
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/best-samuel) 
 
 # 💻 Tech Stack:
