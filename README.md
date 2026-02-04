@@ -1,5 +1,5 @@
 # About Me:
-<br>Masters Student at Cornell University. Incoming SDE Intern at Amazon<br>
+Masters Student at Cornell University. Incoming SDE Intern at Amazon
 
 
 ## Socials:
